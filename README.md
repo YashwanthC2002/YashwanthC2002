@@ -93,7 +93,7 @@ Checkout my website [Link](https://yashwanthc2002.github.io/Portfolio/)
 </div> 
 
 ## 📈 GitHub Stats
-<p><img align="left" style="background-color: black" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashwanthC2002&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="syedfaizan8" /></p>
+<p><img align="left" style="background-color: black" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashwanthC2002&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="YashwanthC2002" /></p>
 <br/>
 
 ---
